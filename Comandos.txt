@@ -1,3 +1,6 @@
 Comandos GIT:
 
 git init > utilizado para inicializar um repositório local;
+
+git add > é utilizado para adicionar os arquivos alterados a área de versionamento chamada de "stage area", que depois serão comitados;
+
